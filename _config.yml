@@ -4,13 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-name: Alex and His Family
-title: Alex and His Family
-subtitle: 
+title: NexT
+subtitle:
 description:
-author: Frog Li
+author: John Doe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
@@ -93,7 +92,7 @@ rss:
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: false
+copyright: true
 
 # ---------------------------------------------------------------
 # SEO Settings
