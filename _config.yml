@@ -4,9 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
+name: Alex and His Family
 title: Alex and His Family
-subtitle: 在成为更好的自己的路上
-description:
+subtitle: 
+description: 在成为更好的自己的路上
 author: Frog Li
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
