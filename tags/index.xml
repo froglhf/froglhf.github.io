@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Call me Sam</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Call me Sam</description>
+    <title>Tags on Icarus</title>
+    <link>https://froglhf.github.io/tags/</link>
+    <description>Recent content in Tags on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Mar 2018 20:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://froglhf.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
-      <link>/tags/blog/</link>
-      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
+      <title>Golang</title>
+      <link>https://froglhf.github.io/tags/golang/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>/tags/blog/</guid>
+      <guid>https://froglhf.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Classic</title>
-      <link>/tags/classic/</link>
-      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
+      <title>Hugo</title>
+      <link>https://froglhf.github.io/tags/hugo/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>/tags/classic/</guid>
+      <guid>https://froglhf.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Code</title>
-      <link>/tags/code/</link>
-      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
+      <title>Markdown</title>
+      <link>https://froglhf.github.io/tags/markdown/</link>
+      <pubDate>Sat, 20 May 2017 12:10:51 +0200</pubDate>
       
-      <guid>/tags/code/</guid>
+      <guid>https://froglhf.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Poem</title>
-      <link>/tags/poem/</link>
-      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
+      <title>Programming</title>
+      <link>https://froglhf.github.io/tags/programming/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>/tags/poem/</guid>
+      <guid>https://froglhf.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Story</title>
-      <link>/tags/story/</link>
-      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
+      <title>Theme</title>
+      <link>https://froglhf.github.io/tags/theme/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>/tags/story/</guid>
+      <guid>https://froglhf.github.io/tags/theme/</guid>
       <description></description>
     </item>
     
