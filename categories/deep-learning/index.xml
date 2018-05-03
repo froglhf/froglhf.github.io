@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alex and His Family</title>
-    <link>https://froglhf.github.io/</link>
-    <description>Recent content on Alex and His Family</description>
+    <title>Deep Learning on Alex and His Family</title>
+    <link>https://froglhf.github.io/categories/deep-learning/</link>
+    <description>Recent content in Deep Learning on Alex and His Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 May 2018 19:43:12 +0800</lastBuildDate>
     
-	<atom:link href="https://froglhf.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://froglhf.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

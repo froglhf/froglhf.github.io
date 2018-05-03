@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Icarus</title>
+    <title>Categories on Alex and His Family</title>
     <link>https://froglhf.github.io/categories/</link>
-    <description>Recent content in Categories on Icarus</description>
+    <description>Recent content in Categories on Alex and His Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,11 +11,11 @@
     
     
     <item>
-      <title>Programming</title>
-      <link>https://froglhf.github.io/categories/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>Deep Learning</title>
+      <link>https://froglhf.github.io/categories/deep-learning/</link>
+      <pubDate>Thu, 03 May 2018 19:43:12 +0800</pubDate>
       
-      <guid>https://froglhf.github.io/categories/programming/</guid>
+      <guid>https://froglhf.github.io/categories/deep-learning/</guid>
       <description></description>
     </item>
     
