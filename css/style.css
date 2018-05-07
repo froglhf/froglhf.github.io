@@ -1452,17 +1452,18 @@ ol.toc {
   background-image: url("images/thumb-default-small.png");
 }
 .archive-article-title {
-  font-size: 1.1fem;
+  font-size: 0.9em;
   line-height: 1.4em;
   margin-bottom: 12px;
   padding-left: 25px;
 }
 @media screen and (max-width: 559px) {
   .archive-article-title {
-    font-size: 1.1em;
+    font-size: 0.9em;
   }
 }
 .archive-article-date {
+  font-size: 0.9em;
   margin-top: 8px;
 }
 .layout-wrap-inner.list-categories ul {

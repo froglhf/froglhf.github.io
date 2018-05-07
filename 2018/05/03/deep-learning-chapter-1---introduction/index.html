@@ -57,7 +57,7 @@
 
 <meta itemprop="datePublished" content="2018-05-03T19:43:12&#43;08:00" />
 <meta itemprop="dateModified" content="2018-05-03T19:43:12&#43;08:00" />
-<meta itemprop="wordCount" content="21">
+<meta itemprop="wordCount" content="37">
 
 
 
@@ -200,7 +200,7 @@
       </div>
       <div class="article-info-block">
         
-          1
+          2
         
         <span>
             Tags
@@ -278,7 +278,7 @@
     <article id="page-undefined" class="article article-type-page" itemscope="" itemprop="blogPost">
     <div class="article-inner">
         
-            <img src="https://froglhf.github.io/banners/hutong.png" class="article-banner">
+            <img src="https://froglhf.github.io/banners/hutong.jpg" class="article-banner">
         
 
         <header class="article-header">
@@ -294,7 +294,7 @@
             <i class="fa fa-calendar"></i>
             <time datetime="2018-05-03 19:43:12 &#43;0800 CST" itemprop="datePublished">2018-05-03</time>
             &middot;
-            21
+            37
             words
             &middot;
             1
@@ -344,7 +344,7 @@
 
 <p>一个核心观点是，深度学习是是一种学习数据表示（data representtation）的机器学习技术。</p>
 
-<p>在运用传统机器学习技术（如LR、SVM）解决实际问题时，我们并不将原始数据输入机器学习算法，而是将数据表示成特定的形式，这一步通常被称作特征抽取。算法的性能很大程度上依赖于特征的质量，但手工构造特征具有以下局限性：</p>
+<p>在运用传统机器学习技术（如LR、SVM）解决实际问题时，我们通常并不将原始数据输入机器学习算法，而是将数据表示成特定的形式，这一步被称为特征抽取。算法的性能很大程度上依赖于特征的质量。因此，如何构造高质量的特征是解决实际问题中至关重要的一步，这也引申出特征工程（feature engineering）的概念。但是，手工构造特征具有以下局限性：</p>
 
 <ul>
 <li>构造好的特征需要研究人员丰富的领域知识和深厚的特征工程经验。</li>
@@ -355,9 +355,24 @@
 
 <p>一个解决方法是让机器自己去学习数据的表示，这种方法被称为表示学习。表示学习的一个例子是autoencoder。autoencoder包含一个encoder函数和一个decoder函数，encoder函数可以将输入数据转换成某种新的表示，并且这个表示具有一些有用的特性。而decoder函数将表示还原为原始输入，还原的数据与原始数据尽可能的保持一致。</p>
 
+<p>总而言之，深度学习技术通过用简单抽象的变换来表示复杂抽象，并不断迭代这一过程，可以获得非常强大的表示能力。</p>
+
 <p>但是，传统的表示学习方法很难学习到隐含在数据背后的抽象特征。而深度学习技术则通过简单的表示来学习复杂表示，从而很好的解决这个问题。（深度学习技术应用于图像识别的例子）</p>
 
 <h2 id="historical-trends-in-deep-learning">Historical Trends in Deep Learning</h2>
+
+<p>深度学习来源于神经网络（neutral networks），这一技术诞生于20世纪50年代，并在80年代掀起了研究热潮。但是在90年代中期之后，随着一些新模型（如SVM）的出现，神经网络一度不再流行。在2006年，Hinton提出深度学习的概念，深度神经网络又掀起了新一轮的热潮，并一直持续至今。深度神经网络在许多AI应用中可以取得优于其他机器学习方法的性能。
+在神经网络的发展过程中，一些概念和技术被引入到了深度学习中：</p>
+
+<ul>
+<li>分布式表示（distributed representation）</li>
+<li>反向传播算法（BP，back propagation）</li>
+<li>LSTM（long-short term memory）</li>
+</ul>
+
+<p>深度学习热潮很大程度上得益于训练数据量和计算能力的大幅提升。目前，很多工业项目的训练数据量达到GB、PB级别。而随着GPU的广泛使用，更深的神经网络被实现。对于监督深度学习算法所需的数据量，一个经验是，至少5000个标注样本可以获得可接受的效果。至少有1000万个标注样本可以达到或超过人的表现。</p>
+
+<p>深度学习在图像、语音、机器翻译等领域取得了优于其他方法的效果，在NLP、推荐、对话等领域也得到快速发展。而深度强化学习（deep reinforce learning，DRL）在自动驾驶、游戏AI等方面也取得了惊人的表现。</p>
         </div>
         <footer class="article-footer">
     <a data-url="https://froglhf.github.io/2018/05/03/deep-learning-chapter-1---introduction/" data-id="01cc1c1cd76e7e4128a346bc27bf2155" class="article-share-link">
@@ -469,7 +484,7 @@
                 <div class="item-thumbnail">
                     <a href="https://froglhf.github.io/2018/05/03/deep-learning-chapter-1---introduction/" class="thumbnail">
                     
-                        <span style="background-image:url(https://froglhf.github.io/banners/hutong.png)" alt="Deep Learning Chapter 1 - Introduction" class="thumbnail-image"></span>
+                        <span style="background-image:url(https://froglhf.github.io/banners/hutong.jpg)" alt="Deep Learning Chapter 1 - Introduction" class="thumbnail-image"></span>
                     
                     </a>
                 </div>
@@ -495,7 +510,7 @@
                 <div class="item-thumbnail">
                     <a href="https://froglhf.github.io/2017/05/20/deep-learning-chapter-2---linear-algebra/" class="thumbnail">
                     
-                        <span style="background-image:url(https://froglhf.github.io/banners/london.png)" alt="Deep Learning Chapter 1 - Introduction" class="thumbnail-image"></span>
+                        <span style="background-image:url(https://froglhf.github.io/banners/london.jpg)" alt="Deep Learning Chapter 1 - Introduction" class="thumbnail-image"></span>
                     
                     </a>
                 </div>
@@ -561,6 +576,14 @@
                     deep-learning
                 </a>
                 <span class="category-list-count">2</span>
+            </li>
+            
+            <li class="category-list-item">
+                
+                <a class="category-list-link" href="https://froglhf.github.io/tags/linear-algebra">
+                    linear-algebra
+                </a>
+                <span class="category-list-count">1</span>
             </li>
             
         </ul>
