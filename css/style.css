@@ -1386,7 +1386,9 @@ ol.toc {
   overflow: hidden;
   break-inside: avoid-column;
   padding: 0;
+  margin-left: 20px;
   margin-bottom: 15px;
+  background: #f5f8f9
 }
 .archive-article:before,
 .archive-article:after {
@@ -1450,19 +1452,17 @@ ol.toc {
   background-image: url("images/thumb-default-small.png");
 }
 .archive-article-title {
-  display: inline;
   font-size: 1.1fem;
   line-height: 1.4em;
   margin-bottom: 12px;
+  padding-left: 25px;
 }
 @media screen and (max-width: 559px) {
   .archive-article-title {
-    display: inline;
     font-size: 1.1em;
   }
 }
 .archive-article-date {
-  display: inline;
   margin-top: 8px;
 }
 .layout-wrap-inner.list-categories ul {
