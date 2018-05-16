@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Alex and His Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 May 2018 19:43:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 May 2018 12:10:51 +0200</lastBuildDate>
     
 	<atom:link href="https://froglhf.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Deep Learning</title>
       <link>https://froglhf.github.io/tags/deep-learning/</link>
-      <pubDate>Thu, 03 May 2018 19:43:12 +0800</pubDate>
+      <pubDate>Thu, 10 May 2018 12:10:51 +0200</pubDate>
       
       <guid>https://froglhf.github.io/tags/deep-learning/</guid>
       <description></description>
@@ -23,9 +23,36 @@
     <item>
       <title>Linear Algebra</title>
       <link>https://froglhf.github.io/tags/linear-algebra/</link>
-      <pubDate>Sat, 20 May 2017 12:10:51 +0200</pubDate>
+      <pubDate>Thu, 10 May 2018 12:10:51 +0200</pubDate>
       
       <guid>https://froglhf.github.io/tags/linear-algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://froglhf.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 14 May 2018 02:10:51 +0200</pubDate>
+      
+      <guid>https://froglhf.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking</title>
+      <link>https://froglhf.github.io/tags/ranking/</link>
+      <pubDate>Mon, 14 May 2018 02:10:51 +0200</pubDate>
+      
+      <guid>https://froglhf.github.io/tags/ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>读书笔记</title>
+      <link>https://froglhf.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Thu, 10 May 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://froglhf.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
       <description></description>
     </item>
     

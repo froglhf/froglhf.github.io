@@ -6,10 +6,41 @@
     <description>Recent content on Alex and His Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 May 2018 19:43:12 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 02:10:51 +0200</lastBuildDate>
     
 	<atom:link href="https://froglhf.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LambdaMART简介</title>
+      <link>https://froglhf.github.io/2018/05/14/lambdamart%E7%AE%80%E4%BB%8B/</link>
+      <pubDate>Mon, 14 May 2018 02:10:51 +0200</pubDate>
+      
+      <guid>https://froglhf.github.io/2018/05/14/lambdamart%E7%AE%80%E4%BB%8B/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;LambdaMART&lt;/strong&gt;是一种state-of-art的Learning to rank算法，由微软在2010年提出&lt;a href=&#34;https://www.microsoft.com/en-us/research/publication/from-ranknet-to-lambdarank-to-lambdamart-an-overview/&#34;&gt;[1]&lt;/a&gt;。在工业界，它也被大量运用在各类ranking场景中。LambdaMART可以看做GDBT版本的&lt;strong&gt;LambdaRank&lt;/strong&gt;，而后者又是基于&lt;strong&gt;RankNet&lt;/strong&gt;发展而来的。RankNet最重要的贡献是提出了一种pairwise的用于排序的概率损失函数，而LambdaRank又在损失函数中巧妙的引入了NDCG等ranking metrics来优化排序效果。LambdaMART则是集大成者，它结合了上述两篇文章中提出的Lambda函数以及GDBT这一学习算法，在各种排序问题中均能取得不错的效果。下面是一些开源实现：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourceforge.net/p/lemur/wiki/RankLib/&#34;&gt;Ranklib&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tqchen/xgboost&#34;&gt;Xgboost&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;code&gt;封面： 大洋路沿途&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Chapter 2 - Linear Algebra</title>
+      <link>https://froglhf.github.io/2018/05/10/deep-learning-chapter-2---linear-algebra/</link>
+      <pubDate>Thu, 10 May 2018 12:10:51 +0200</pubDate>
+      
+      <guid>https://froglhf.github.io/2018/05/10/deep-learning-chapter-2---linear-algebra/</guid>
+      <description>&lt;p&gt;本章介绍了线性代数的一些基本概念，更系统的介绍可以观看&lt;a href=&#34;http://open.163.com/special/opencourse/daishu.html&#34;&gt;麻省理工公开课：线性代数&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;封面： 伦敦象征，大本钟和红色大巴&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Deep Learning Chapter 1 - Introduction</title>
@@ -20,19 +51,6 @@
       <description>&lt;p&gt;正式拔草《Deep Learning》，相关资源 &lt;a href=&#34;http://www.deeplearningbook.org/&#34;&gt;http://www.deeplearningbook.org/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;封面： 北京胡同&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning Chapter 2 - Linear Algebra</title>
-      <link>https://froglhf.github.io/2017/05/20/deep-learning-chapter-2---linear-algebra/</link>
-      <pubDate>Sat, 20 May 2017 12:10:51 +0200</pubDate>
-      
-      <guid>https://froglhf.github.io/2017/05/20/deep-learning-chapter-2---linear-algebra/</guid>
-      <description>&lt;p&gt;This note demonstrates some of what &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; is capable of doing.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Note: Feel free to play with this page. Unlike regular notes, this doesn&amp;rsquo;t automatically save itself.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

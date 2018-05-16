@@ -880,7 +880,7 @@ a.article-title:hover {
 }
 .article-entry p,
 .article-entry table {
-  line-height: 1.6em;
+  line-height: 2.0em;
   margin: 1.6em 0;
 }
 .article-entry h1,
@@ -940,7 +940,7 @@ a.article-title:hover {
 .article-entry blockquote {
   position: relative;
   font-family: Georgia, "Times New Roman", "Microsoft Yahei", serif;
-  font-size: 1.1em;
+  font-size: 0.95em;
   margin: 0 -20px;
   padding: 10px 20px 10px 54px;
   background: #fcfcfc;
@@ -2156,3 +2156,5 @@ ol.toc {
 .highlight .code .selector-id {
   font-weight: bold;
 }
+
+.MathJax span{font-size:14px;}
