@@ -22,6 +22,7 @@
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://sourceforge.net/p/lemur/wiki/RankLib/&#34;&gt;Ranklib&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/tqchen/xgboost&#34;&gt;Xgboost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lightgbm.apachecn.org/cn/latest/&#34;&gt;LightGBM&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;code&gt;封面： 大洋路沿途&lt;/code&gt;&lt;/p&gt;
@@ -53,6 +54,27 @@
 &lt;p&gt;&lt;code&gt;封面： 北京胡同&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://froglhf.github.io/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://froglhf.github.io/1/01/01/</guid>
+      <description>Basic Goals 什么是问答排序 属于re-ranker的一个步骤 主模型不能兼顾所有的场景，所以对特定场景训练独立的ranker是有价值的
+LambdaMART
+标注修正
+样本重复采样
+特征
+共享特征
+special feature query相关，问答关键词 重要度加权 回答相关特征：回答长度、点赞数、踩数，回答个数
+问答意图学习（分类器）
+GBDT
+官网判别（分类器）
+Advanced Goals TransLM
+加入知乎和医疗问答结果
+重定向合并</description>
     </item>
     
   </channel>
