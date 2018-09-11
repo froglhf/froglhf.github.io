@@ -118,7 +118,8 @@ body,
 body {
   color: #565a5f;
   background: #f5f8f9;
-  font: 15px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+  font: 16px Helvetica Neue, Helvetica, Arial, PingFang SC,Hiragino Sans GB, Microsoft Yahei,WenQuanYi Micro Hei,sans-serif;;
+  font-weight:300;
   -webkit-text-size-adjust: 100%;
 }
 a {
@@ -186,7 +187,7 @@ code {
   #main {
     display: inline;
     float: left;
-    width: 57.307692307692314%;
+    width: 60.307692307692314%;
     margin: 0 0.769230769230769%;
   }
 }
@@ -194,7 +195,7 @@ code {
   #main {
     display: inline;
     float: left;
-    width: 67.6923076923077%;
+    width: 60.6923076923077%;
     margin: 0 0.769230769230769%;
   }
 }
@@ -238,11 +239,11 @@ code {
 }
 .article-entry h1,
 .widget h1 {
-  font-size: 2em;
+  font-size: 2.5em;
 }
 .article-entry h2,
 .widget h2 {
-  font-size: 1.5em;
+  font-size: 2em;
 }
 .article-entry h3,
 .widget h3 {
@@ -635,7 +636,7 @@ code {
 #profile {
   display: inline;
   float: left;
-  width: 18.53846153846154%;
+  width: 16.53846153846154%;
   margin: 0 0.769230769230769%;
   display: none;
 }
@@ -814,9 +815,10 @@ code {
   margin-bottom: 14px;
 }
 .article-title {
-  font-size: 2em;
+  font-size: 2.5em;
   color: #565a5f;
   text-decoration: none;
+  font-weight: 300;
   line-height: 1.3em;
 }
 a.article-title:visited {
@@ -880,7 +882,7 @@ a.article-title:hover {
 }
 .article-entry p,
 .article-entry table {
-  line-height: 1.8em;
+  line-height: 1.6em;
   margin: 1.6em 0;
 }
 .article-entry h1,
@@ -939,6 +941,7 @@ a.article-title:hover {
 }
 .article-entry blockquote {
   position: relative;
+  color: #565a5f;
   font-family: Georgia, "Times New Roman", "Microsoft Yahei", serif;
   font-size: 0.95em;
   margin: 0 -20px;
@@ -1670,7 +1673,7 @@ ol.toc {
   #sidebar {
     display: inline;
     float: left;
-    width: 19.53846153846154%;
+    width: 18.53846153846154%;
     margin: 0 0.769230769230769%;
   }
 }
@@ -2157,4 +2160,4 @@ ol.toc {
   font-weight: bold;
 }
 
-.MathJax span{font-size:14px;}
+.MathJax span{font-size:16px;}
